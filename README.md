@@ -18,11 +18,6 @@ npm install --save opinionate.css
 bower install --save opinionate-css
 ```
 
-**Download**
-
-See https://necolas.github.io/opinionate.css/latest/opinionate.css
-
-
 ## Why?
 
 [Normalize.css][normalize] is awesome. Unfortunately, as of version 6.0.0, some opinionated rules were removed. This package aims to restore those rules for anyone who wants to keep up with the latest changes but still needs/wants the opinionated rules.
