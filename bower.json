@@ -1,0 +1,16 @@
+{
+  "name": "opinionate-css",
+  "description": "An opinionated complement to normalize.css",
+  "main": "normalize.css",
+  "authors": [
+    "Adam Gruber",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "package.json",
+    "README.md",
+    "test.html"
+  ]
+}

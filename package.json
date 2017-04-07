@@ -1,0 +1,25 @@
+{
+  "name": "opinionate.css",
+  "version": "1.0.0",
+  "description": "An opinionated complement to normalize.css",
+  "main": "opinionate.css",
+  "style": "opinionate.css",
+  "files": [
+    "LICENSE.md",
+    "opinionate.css"
+  ],
+  "devDependencies": {
+    "stylelint": "^7.9.0",
+    "stylelint-config-standard": "^16.0.0"
+  },
+  "scripts": {
+    "test": "stylelint opinionate.css"
+  },
+  "repository": "adamgruber/opinionate.css",
+  "author": "Adam Gruber",
+  "license": "MIT",
+  "stylelint": {
+    "extends": "stylelint-config-standard",
+    "rules": {}
+  }
+}
