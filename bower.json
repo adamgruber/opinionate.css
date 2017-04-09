@@ -3,7 +3,7 @@
   "description": "An opinionated complement to normalize.css",
   "main": "normalize.css",
   "authors": [
-    "Adam Gruber",
+    "Adam Gruber"
   ],
   "license": "MIT",
   "ignore": [
