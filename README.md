@@ -5,6 +5,9 @@
 [![npm][npm-image]][npm-url] [![license][license-image]][license-url]
 [![changelog][changelog-image]][changelog-url]
 
+## DEPRECATED AS OF MAY 2, 2017
+Version 7 of normalize reverted the changes made in v6. Use that instead.
+
 
 **NPM**
 
